@@ -1,4 +1,4 @@
 # hello-world
 Test repository
 
-Is giraffe-riding a thing ?
+I want to draw with an Elephant.
